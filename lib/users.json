@@ -72,7 +72,7 @@
   {
     "title": "أم بي سي أف أم",
     "subtitle": "إذاعة سعودية إخبارية عامة ",
-    "urlImage": "https://cdn.iconscout.com/icon/free/png-256/radio-361-459828.png",
+    "urlImage":"assets/images/Radio_Net.png",
     "urlRadio":
         "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8"
   },
